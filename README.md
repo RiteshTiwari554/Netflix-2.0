@@ -1,6 +1,6 @@
-# Netflix Clone
+# Netflix 2.0
 
-This project is a Netflix clone created using React for the frontend and Firebase for backend services.
+This project is a Netflix 2.0 created using React for the frontend and Firebase for backend services.
 
 ## Features
 
@@ -17,15 +17,15 @@ This project is a Netflix clone created using React for the frontend and Firebas
 
 ## Live Project
 
-The live version of this project is accessible at [Netflix Clone Live](https://netflix-clone-9f1b9.web.app/).
+The live version of this project is accessible at [Netflix 2.0 Live](https://netflix-clone-9f1b9.web.app/).
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/RiteshTiwari554/Netflixclone.git
-    cd Netflixclone
+    git clone https://github.com/RiteshTiwari554/Netflix 2.0.git
+    cd Netflix 2.0
     ```
 
 2. Install dependencies:
@@ -72,6 +72,3 @@ To deploy the application, follow the deployment instructions for React and Fire
 
 Feel free to contribute to this project by creating issues or pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
